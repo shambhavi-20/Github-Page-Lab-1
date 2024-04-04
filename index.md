@@ -42,5 +42,5 @@ import matplotlib
 1. [Github](https://github.com/shambhavi-20)
 2. [LinkedIn](www.linkedin.com/in/shambhavi-mittal-035957216)
 
-## ***Relative Links***
+## **Relative Links**
 [README](README.md)
