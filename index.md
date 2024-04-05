@@ -15,9 +15,9 @@ Hi! I am Shambhavi Mittal and I am a second-year Computer Science student at the
 - Teamwork
 
 
-If you are curious to know about my adventurous goals in life, [Click Here!](#things-i-want-to-before-i-die)
+If you are curious to know about my adventurous goals in life, [Click Here!](#things-i-want-to-do-before-i-die)
 
-> One of the main reasons I chose to study at UCSD was because of the beautiful sunsets! Here are some of the sunsets I captured:
+> One of the main reasons I chose to study at UCSD was because of the **beautiful sunsets**! Here are some of the sunsets I captured:
 
 ![Sunset2](Sunset2.png)
 ![Sunset1](Sunset1.png)
@@ -39,8 +39,8 @@ import matplotlib
 - [ ] Skiing
 
 ## ***Connect with me***
-1. [Github](https://github.com/shambhavi-20)
-2. [LinkedIn](www.linkedin.com/in/shambhavi-mittal-035957216)
+1. [GitHub](https://github.com/shambhavi-20)
+2. [LinkedIn](https://www.linkedin.com/in/shambhavi-mittal-035957216/)
 
 ## **Relative Links**
 [README](README.md)
